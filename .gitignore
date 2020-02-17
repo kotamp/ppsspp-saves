@@ -1,6 +1,5 @@
 *.swp
 .nomedia
-PSP/SYSTEM
 *.DNS
-ppsspp.ini
-controls.ini
+PSP/SYSTEM/ppsspp.ini
+PSP/SYSTEM/controls.ini
