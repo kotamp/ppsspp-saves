@@ -11,7 +11,7 @@ Migikata no Chou
 Marginal
 The Secret Garden
 Just Be Friends
-Strobo Night
+Strobo Nights
 Clover * Club
 From Y to Y
 Updatino Your Love List?
@@ -73,6 +73,12 @@ Migikata no Chou
 Marginal
 The Secret Garden
 Velvet Arabesque
+Inochi no Uta
+Yellow
+Updatino Your Love List?
+Clover * Club
+Strobo Nights
+Just Be Friends
 '''.split '\n'
 .forEach (e) -> save e, 'easy'
 
